@@ -7,9 +7,7 @@ rvm:
 
 before_install:
   gem install overcommit
-  overcommit --install
-  overcommit --sign
-  
+
 # command to install dependencies
 install:
   - pip install -r requirements.txt
