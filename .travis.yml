@@ -6,7 +6,8 @@ rvm:
   - truffleruby
 
 before_install:
-  gem install overcommit
+  - gem install overcommit
+  - gem install rubocop
 
 # command to install dependencies
 install:
