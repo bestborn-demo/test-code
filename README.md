@@ -11,4 +11,4 @@ just a simple program to validate:
 
 ## Note: Feel free to add test cases in test_cardVerify.py if any better test case can be used. You can add other short scripts for different languages to test
 
-Thank you!
+Thank you:)
