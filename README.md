@@ -10,4 +10,4 @@ just a simple program to validate:
 4. expiry date
 
 ## Note: Feel free to add test cases in test_cardVerify.py if any better test case can be used. You can add other short scripts for different languages to test
-thank you ---
+thank you 0_O
